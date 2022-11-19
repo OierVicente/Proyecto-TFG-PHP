@@ -1,0 +1,15 @@
+body{
+    background-color: #f2f2f2;
+}
+.botonCrear {
+    color: #9c7920;
+    border-color: #9c7920;
+    border: 3px solid;
+}
+.contenedorMinimoAltura{
+    min-height: 100vh;
+  }
+.fotoSiempreMismoWidth{
+    min-width: 100%;
+    max-width: 100%;
+}

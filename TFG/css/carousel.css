@@ -1,0 +1,26 @@
+div .carousel-item img{
+    width: 100%;
+}
+/* Carrousel */
+#carouselExampleCaptions{
+    background-color:#36344d;
+  }
+  
+  .cuadradoTitulodeCarrousel1{
+    background-color:#446063;
+  }
+  .cuadradoTitulodeCarrousel2{
+  background-color: #2c1f3b;
+  }
+  .cuadradoTitulodeCarrousel3{
+    background-color: #42462d;
+  }
+  .cuadradoTitulodeCarrousel4{
+    background-color: #9e654d;
+  }
+  .cuadradoTitulodeCarrousel5{
+    background-color: #657d59;
+  }
+  .cuadradoTitulodeCarrousel6{
+    background-color: #557673;
+  }

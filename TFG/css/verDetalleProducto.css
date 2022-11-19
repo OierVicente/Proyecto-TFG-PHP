@@ -1,0 +1,12 @@
+body{
+  background-color: #f2f2f2;
+}
+.card-img-bottom {
+    color: #fff;
+    height: 20rem;
+    background: center no-repeat;
+    background-size: cover;
+  }
+  .contenedorMinimoAltura{
+    min-height: 100vh;
+  }

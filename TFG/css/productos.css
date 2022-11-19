@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    background-color: #f2f2f2;
+}
+  .siempreLaMismaAlturaTitulo{
+    min-height: 5vh;
+    max-height: 5vh;
+  }
+  p.parrafoconScroll{
+    min-height: 10vh!important;
+    max-height: 10vh!important;
+    overflow: auto!important;
+  }
+  .contenedorMinimoAltura{
+    min-height: 100vh!important;
+  }
+  .divConMismaAlturaDeImagenEnProducto{
+    min-height: 42vh!important;
+    max-height: 42vh!important;
+  }
